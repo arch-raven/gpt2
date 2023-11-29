@@ -1,0 +1,22 @@
+What is a language model?
+
+One of the most important questions we need to answer is how does it work?
+
+The answer depends on many factors. However, the syntax for a language model is an entirely separate matter. It's important to understand the steps of describing the semantics of a model before implementing it. For example, if you support the idea that there are two kinds of languages, how does that work? In fact, one can understand the semantics somewhat differently than the other.
+
+Common Language Models
+
+---------------
+What is a language model?
+
+We started by thinking about the functional language's "syntactic plane" and considered a representation of a language's syntax like a dictionary. When we spoke about this "syntactic plane", we were talking about the semantic semantics of a particular language.
+
+This is what we see in the above diagram:
+
+In this example, we will use the name "word" to represent 1 and 2, respectively, but we will actually use the name "syntactic" to
+---------------
+What is a language model?
+
+A language model refers to a set of rules that govern what a developer can do with a new language. It is the act of building a language, or even a set of rules. The language model includes both a set of rules and a set of assumptions or behaviors for the language, and it includes all of these assumptions as well.
+
+A typical language model is a set of rules or settings that are part of the language. How do you define these rules or settings?
